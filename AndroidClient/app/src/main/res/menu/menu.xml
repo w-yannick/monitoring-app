@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/hamburger_menu"
+        android:icon="@drawable/ic_menu_black"
+        android:title="@string/menu"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_power_settings_new_black"
+                android:title="@string/logout" />
+            <item
+                android:id="@+id/changeTheme"
+                android:title="@string/change_theme" />
+        </menu>
+    </item>
+
+</menu>

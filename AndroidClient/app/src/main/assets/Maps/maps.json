@@ -1,0 +1,18 @@
+{
+  "spareport_america": {
+    "LAT":32.9401475,
+    "LONG":-106.9193209
+  },
+  "motel_6": {
+    "LAT":32.9401475,
+    "LONG":-106.9193209
+  },
+  "convention_center":{
+    "LAT":32.2799304,
+    "LONG":-106.7468314
+  },
+  "st_pie_de_guire":{
+    "LAT": 46.0035479,
+    "LONG": -72.7311097
+  }
+}

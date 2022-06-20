@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:id="@+id/linear_v_left"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingRight="16dp"
+        android:layout_weight=".5"
+        android:background="@drawable/background_square">
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/linear_v_right"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight=".5"
+        android:paddingLeft="16dp"
+        android:background="@drawable/background_square"
+        android:visibility="gone">
+    </RelativeLayout>
+</LinearLayout>

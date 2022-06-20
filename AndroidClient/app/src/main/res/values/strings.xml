@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OronosMobileApp</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="log_in">Login</string>
+    <string name="title_activity_main">Main Activity</string>
+    <string name="username_error">Username cannot be empty</string>
+    <string name="password_error">Password cannot be empty</string>
+    <string name="bad_credentials_error">Invalid Username and/or Password</string>
+    <string name="ip_addr">Server IP address</string>
+    <string name="title_activity_launcher">Oronos</string>
+    <string name="logout">Logout</string>
+    <string name="menu">Menu</string>
+    <string name="title_activity_tabs">Tabs Activity</string>
+    <string name="change_ip">Change Ip</string>
+    <string name="title_activity_upadator">Upadator Test Activity</string>
+    <string name="validate">OK</string>
+    <string name="ip_key">IP_ADDR</string>
+    <string name="change_theme">Change Theme</string>
+</resources>
